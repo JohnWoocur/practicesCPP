@@ -1,4 +1,4 @@
-using namespace std;
+using namespace std; //namespaces
 void sum(int no1,int no2);
 void dif(int no1,int no2);
 void division(int no1,int no2);
